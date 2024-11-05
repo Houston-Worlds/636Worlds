@@ -69,7 +69,7 @@ import java.util.List;
  */
 @Autonomous
 //@Disabled
-public class SimpleTag extends LinearOpMode {
+public class SimpleAprilTag extends LinearOpMode {
 
     private static final boolean USE_WEBCAM = true;  // true for webcam, false for phone camera
 
